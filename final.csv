@@ -1,0 +1,9 @@
+Name,Organization,Address:Street,City,Sample Name,Sample Type,Plant Desired,Date Collected,Date Observed,Bacterial Biomass (g/g),Fungal Biomass (g/g),F:B Ratio,Total Beneficial Protozoa (number/g),Fungal-feeding Nematodes (number/g)
+Brian Vagg,Compost Academy,367 E 300 N,Alpine,Compost 2,Compost,,-  -,01-03-2023,0.0,76.79796300000001,91.80602006688963,1267200,0
+Elizabeth Balden,AM Farms,,American Fork,Compost MPA3,Compost,Corn,,01-07-2023,0.0,321.6701565,59.51086956521739,264000,0
+Janell Howard,Rainmakers,,Leyden,Garden Box Soil,Soil,fruit trees,03-26-2022,03-28-2022,0.0,25.127202375000007,9.297360248447207,448800,0
+Dan Howard,Leyden Farm,,,Soil,,vegetables,,12-13-2021,3470.3063999999995,909.02040631875,0.26149635090115003,515614,110
+Dan Howard,Leyden Farm,,,Soil,,vegetables,,2-13-2022,3690.3063999999995,989.02040631875,0.38149635090115003,565614,140
+Dan Howard,Leyden Farm,,,Soil,,vegetables,,4-13-2022,4218.3063999999995,999.02040631875,0.43149635090115003,598614,189
+Dan Howard,Leyden Farm,,,Soil,,vegetables,,6-13-2022,3470.3063999999995,1009.02040631875,0.599635090115003,606614,189
+Dan Howard,Leyden Farm,,,Soil,,vegetables,,8-13-2022,3745.3063999999995,1200.02040631875,0.77149635090115003,784614,289
